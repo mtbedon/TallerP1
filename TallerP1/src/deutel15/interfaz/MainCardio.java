@@ -25,7 +25,7 @@ public class MainCardio {
 
         persona1=new FrecuenciasCardiacas(nombre,apellido,day,month,year);
 
-        System.out.println("====¿CÓMO DEBE ESTAR TU CORAZÓN\n?");
+        System.out.println("====¿CÓMO DEBE ESTAR TU CORAZÓN?\n");
         System.out.println(persona1.toString());
     }
 }
