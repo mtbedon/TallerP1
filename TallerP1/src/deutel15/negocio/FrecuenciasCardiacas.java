@@ -95,7 +95,7 @@ public class FrecuenciasCardiacas {
 
     @Override
     public String toString() {
-        return "Estimado/a "+nombre+" "+apellido+" con fecha de nacimiento "+day+"/"+month+"/"+year+"\nSu ritmo cardiáco máximo es de "+frecuenciaMaxima()+" pulsos por minuto y su frecuencia esperada se encuentra en el rango de "+frecuenciaEsperada()+"pulsos por minuto";
+        return "Estimado/a "+nombre+" "+apellido+" con fecha de nacimiento "+day+"/"+month+"/"+year+"\nSu ritmo cardiáco máximo es de "+frecuenciaMaxima()+" pulsos por minuto y su frecuencia esperada se encuentra en el rango de "+frecuenciaEsperada()+" pulsos por minuto";
 
     }
 }
